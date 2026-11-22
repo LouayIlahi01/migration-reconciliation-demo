@@ -1,0 +1,506 @@
+row,column,value_in_target,suggested_value,was_actually_wrong
+0,measure_name,surgery patients who were taking heart drugs caxxed beta bxockers before coming to the hospitax who were kept on the beta bxockers during the period just before and after their surgery,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,True
+3,city,birminghxm,birmingham,True
+7,city,birmingxam,birmingham,True
+10,city,sheffxeld,sheffield,True
+13,provider_number,1xx19,,True
+16,type,acuxe care hospixals,acute care hospitals,True
+17,sample,3x patients,,True
+21,condition,heart attaxk,heart attack,True
+22,owner,government - hospxtal dxstrxct or authorxty,government - hospital district or authority,True
+22,condition,hearx axxack,heart attack,True
+24,phone,334793870x,3347938701,True
+24,emergency_service,yxs,yes,True
+26,name,southeast alabama medxcal center,southeast alabama medical center,True
+27,owner,government - hospital xistrict or authority,government - hospital district or authority,True
+31,owner,governmenx - hospixal disxricx or auxhorixy,government - hospital district or authority,True
+36,phone,xx479x8701,3347938701,True
+39,type,acxte care hospitals,acute care hospitals,True
+42,state,xl,al,True
+42,owner,gxvernment - hxspital district xr authxrity,government - hospital district or authority,True
+43,emergency_service,yex,yes,True
+44,zip,x5957,35957,True
+45,provider_number,x0005,,True
+46,state,xl,al,True
+50,state,xl,al,True
+51,emergency_service,yxs,yes,True
+56,city,boxz,boaz,True
+56,state_average,al_pn-xb,al_pn-3b,True
+57,address_1,2505xuxsxhighwayx431xnorth,2505 u s highway 431 north,True
+57,phone,2x6x938310,2565938310,True
+60,phone,2x6x938310,2565938310,True
+63,zip,3595x,35957,True
+65,phone,2565x38310,2565938310,True
+67,county,mxrshxll,marshall,True
+69,state_average,al_amx-1,al_ami-1,True
+70,zip,3563x,35631,True
+72,county,laudxrdalx,lauderdale,True
+73,condition,hearx axxack,heart attack,True
+77,county,laudexdale,lauderdale,True
+79,city,fxorence,florence,True
+81,provider_number,1000x,,True
+83,state,xl,al,True
+88,city,florxncx,florence,True
+91,sample,619 paxienxs,,True
+93,city,flxrence,florence,True
+93,zip,3563x,35631,True
+94,address_1,702xnxmainxst,702 n main st,True
+94,measure_name,xeart attack patients given aspirin at arrival,heart attack patients given aspirin at arrival,True
+97,measure_code,axi-4,ami-4,True
+98,state,xl,al,True
+98,type,acute care hosxitals,acute care hospitals,True
+101,phone,3344x33541,3344933541,True
+101,measure_code,hfx1,hf-1,True
+106,address_1,702 x maix st,702 n main st,True
+108,measure_code,pnx5c,pn-5c,True
+111,measure_name,surgery patiexts who were takixg heart drugs called beta blockers before comixg to the hospital who were kept ox the beta blockers durixg the period just before axd after their surgery,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,True
+113,owner,volunxary non-profix - privaxe,voluntary non-profit - private,True
+115,sample,0 patixnts,,True
+119,state,ax,al,True
+119,measure_name,heart attack patients given aspirin at arrivax,heart attack patients given aspirin at arrival,True
+120,measure_code,axi-2,ami-2,True
+120,score,x00%,,True
+127,condition,heaxt failuxe,heart failure,True
+131,name,crenshaw cxmmunity hxspital,crenshaw community hospital,True
+133,sample,21 pxtients,,True
+136,county,crxnshaw,crenshaw,True
+137,zip,36x49,36049,True
+139,zip,360x9,36049,True
+140,state,ax,al,True
+145,measure_name,heart attaxk patients given aspirin at disxharge,heart attack patients given aspirin at discharge,True
+149,zip,3x640,35640,True
+157,zip,3x640,35640,True
+157,owner,pxopxietaxy,proprietary,True
+157,emergency_service,yxs,yes,True
+158,score,9x%,,True
+159,owner,proxrietary,proprietary,True
+161,address_1,201 pine sxreex norxhwesx,201 pine street northwest,True
+162,owner,xroprietary,proprietary,True
+163,score,x7%,,True
+164,owner,pxopxietaxy,proprietary,True
+165,state,ax,al,True
+166,sample,xx patients,,True
+170,sample,6xpatients,,True
+171,name,marshall medical cenxer norxh,marshall medical center north,True
+175,address_1,8000 alabama xigxway 69,8000 alabama highway 69,True
+177,measure_code,hf-x,hf-2,True
+180,city,guntxrsvillx,guntersville,True
+182,state,xl,al,True
+187,score,95x,,True
+190,measure_code,scip-inx-4,scip-inf-4,True
+193,state_average,al_scix-vte-2,al_scip-vte-2,True
+196,zip,3x23x,35235,True
+199,type,acute care hosxitals,acute care hospitals,True
+199,condition,heaxt attack,heart attack,True
+207,city,birmixgham,birmingham,True
+208,score,x5%,,True
+210,measure_name,pneumoniaxpatientsxassessedxandxgivenxinfluenzaxvaccination,pneumonia patients assessed and given influenza vaccination,True
+212,city,bxrmxngham,birmingham,True
+213,provider_number,x00xx,,True
+213,state_average,al_sxip-inf-2,al_scip-inf-2,True
+216,county,jeffersxn,jefferson,True
+216,owner,volunxary non-profix - privaxe,voluntary non-profit - private,True
+217,phone,2058x8x122,2058383122,True
+218,owner,voluntary nonxprofit x private,voluntary non-profit - private,True
+219,measure_name,heartxattackxpatientsxgivenxaspirinxatxarrival,heart attack patients given aspirin at arrival,True
+221,county,dx kalb,de kalb,True
+221,owner,voluntaryxnon-profitx-xchurch,voluntary non-profit - church,True
+223,county,xe kalb,de kalb,True
+224,sample,1 patiexts,,True
+225,condition,hexrt attxck,heart attack,True
+227,county,dx kalb,de kalb,True
+228,city,fort payxe,fort payne,True
+228,state,ax,al,True
+228,phone,2568453x50,2568453150,True
+229,condition,heart faxlure,heart failure,True
+232,zip,359x8,35968,True
+234,sample,82 patientx,,True
+236,condition,suxgical infection pxevention,surgical infection prevention,True
+237,score,9x%,,True
+238,county,xe kalb,de kalb,True
+238,owner,voxuntary non-profit - church,voluntary non-profit - church,True
+238,score,xx%,,True
+239,condition,surgxcal infectxon preventxon,surgical infection prevention,True
+243,name,dexalb regional medical center,dekalb regional medical center,True
+244,provider_number,x00x5,,True
+244,state_average,ax_ami-1,al_ami-1,True
+247,phone,xx46x66221,3346366221,True
+247,owner,governxent - federal,government - federal,True
+248,state_average,xl_xmi-5,al_ami-5,True
+252,county,xlarke,clarke,True
+252,score,89x,,True
+253,provider_number,1xx15,,True
+256,condition,xneumonia,pneumonia,True
+256,measure_name,pneumonxa patxents whose inxtxal emergency room blood culture was performed prxor to the admxnxstratxon of the fxrst hospxtal dose of antxbxotxcs,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,True
+256,score,x6%,,True
+260,address_1,33700 hxghway 43,33700 highway 43,True
+261,phone,334x3xx221,3346366221,True
+264,address_1,33700 highway x3,33700 highway 43,True
+264,measure_code,scxp-xnf-3,scip-inf-3,True
+266,type,acuxe care hospixals,acute care hospitals,True
+267,zip,x6784,36784,True
+269,state_average,al_axi-1,al_ami-1,True
+273,provider_number,1xx16,,True
+275,address_1,1000 fixst stxeet noxth,1000 first street north,True
+278,state,xl,al,True
+279,condition,xeart failure,heart failure,True
+280,type,acutexcarexhospitals,acute care hospitals,True
+281,measure_name,pnxumonia patixnts whosx initial emxrgxncy room blood culturx was pxrformxd prior to thx administration of thx first hospital dosx of antibiotics,pneumonia patients whose initial emergency room blood culture was performed prior to the administration of the first hospital dose of antibiotics,True
+283,zip,3x007,35007,True
+290,zip,x5007,35007,True
+290,measure_name,all heart surgerx patients whose blood sugar (blood glucose) is kept under good control in the daxs right after surgerx,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,True
+293,type,acuxe care hospixals,acute care hospitals,True
+295,address_1,1720 univxrsity blvd,1720 university blvd,True
+311,city,axxistox,anniston,True
+312,county,calhoxn,calhoun,True
+313,owner,prxprietary,proprietary,True
+314,provider_number,100x8,,True
+316,address_1,301xeastx18thxst,301 east 18th st,True
+316,sample,29 xatients,,True
+318,emergency_service,xes,yes,True
+321,phone,256235x900,2562358900,True
+324,county,caxhoun,calhoun,True
+325,zip,36x01,36201,True
+327,emergency_service,yex,yes,True
+332,zip,3x305,36305,True
+332,owner,proxrietary,proprietary,True
+332,emergency_service,yex,yes,True
+334,address_1,4370xwestxmainxstreet,4370 west main street,True
+334,state_average,al_pnx2,al_pn-2,True
+336,score,x00%,,True
+337,name,floxers hospital,flowers hospital,True
+340,zip,x6x05,36305,True
+342,phone,xx479x5000,3347935000,True
+346,county,housxon,houston,True
+346,measure_name,surgery pxtients whose doctors ordered trextments to prevent blood clots xfter certxin types of surgeries,surgery patients whose doctors ordered treatments to prevent blood clots after certain types of surgeries,True
+347,state_average,al_scipxvtex2,al_scip-vte-2,True
+349,measure_code,amix2,ami-2,True
+350,address_1,810 st vxncents drxve,810 st vincents drive,True
+350,emergency_service,yxs,yes,True
+354,sample,1x patients,,True
+356,state,ax,al,True
+356,owner,prxprietary,proprietary,True
+360,provider_number,100x6,,True
+363,address_1,1530xuxsxhighwayx43,1530 u s highway 43,True
+366,zip,3xx94,35594,True
+366,condition,pnxumonia,pneumonia,True
+367,city,winfielx,winfield,True
+369,condition,pnexmonia,pneumonia,True
+370,state_average,alxpn-7,al_pn-7,True
+373,state_average,al_sxip-inf-2,al_scip-inf-2,True
+374,emergency_service,yex,yes,True
+375,zip,3xx94,35594,True
+378,score,x5%,,True
+380,measure_name,heaxt attack patients given aspixin at dischaxge,heart attack patients given aspirin at discharge,True
+381,phone,25x47x7xx0,2514717110,True
+384,name,univ ox south alabama medical center,univ of south alabama medical center,True
+384,phone,25x47x7xx0,2514717110,True
+385,name,xniv of soxth alabama medical center,univ of south alabama medical center,True
+386,state,xl,al,True
+386,phone,25x47x7xx0,2514717110,True
+386,condition,hxart failurx,heart failure,True
+387,state_average,al_hx-2,al_hf-2,True
+389,emergency_service,yxs,yes,True
+389,measure_name,heart xailure patients given smoking cessation advice/counseling,heart failure patients given smoking cessation advice/counseling,True
+391,measure_code,pn-xb,pn-3b,True
+393,address_1,124xsxmemorialxdr,124 s memorial dr,True
+393,phone,33x361x267,3343614267,True
+398,measure_code,hx-1,hf-1,True
+400,condition,hxart failurx,heart failure,True
+402,state,ax,al,True
+405,score,x4%,,True
+406,zip,3x0x7,36067,True
+408,provider_number,x0x08,,True
+409,measure_code,scipxinfx1,scip-inf-1,True
+410,emergency_service,yxs,yes,True
+411,address_1,124 s mxmorial dr,124 s memorial dr,True
+411,type,acute care hosxitals,acute care hospitals,True
+411,score,1xx%,,True
+413,type,acuxe care hospixals,acute care hospitals,True
+413,sample,125 patixnts,,True
+415,address_1,315 w hickxry st,315 w hickory st,True
+415,county,tallaxega,talladega,True
+418,emergency_service,xo,no,True
+418,sample,4 xatients,,True
+420,zip,x5150,35150,True
+426,score,x7%,,True
+428,zip,3x1x0,35150,True
+431,address_1,315xwxhickoryxst,315 w hickory st,True
+434,measure_name,heart faxlure patxents gxven ace inhxbxtor or arb for left ventrxcular systolxc dysfunctxon (lvsd),heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),True
+437,city,anchoraxe,anchorage,True
+444,sample,521 patiexts,,True
+447,measure_name,surgeryxpatientsxneedingxhairxremovedxfromxthexsurgicalxareaxbeforexsurgery& xwhoxhadxhairxremovedxusingxaxsaferxmethodx(electricxclippersxorxhairxremovalxcreamxï¿½cxnotxaxrazor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),True
+448,name,xlxskx regionxl hospitxl,alaska regional hospital,True
+449,owner,proxrietary,proprietary,True
+451,address_1,poxboxx287,po box 287,True
+453,type,acute care hospitaxs,acute care hospitals,True
+456,county,jxffxrson,jefferson,True
+456,owner,gxvernment - hxspital district xr authxrity,government - hospital district or authority,True
+457,county,xefferson,jefferson,True
+462,sample,x patients,,True
+464,measure_code,sxip-vte-1,scip-vte-1,True
+465,county,jexxerson,jefferson,True
+467,condition,hexrt attxck,heart attack,True
+471,phone,334774x601,3347742601,True
+472,address_1,126xhospitalxave,126 hospital ave,True
+473,measure_name,heaxt failuxe patients given dischaxge instxuctions,heart failure patients given discharge instructions,True
+474,city,ozarx,ozark,True
+477,state,xl,al,True
+482,sample,62 patientx,,True
+483,state,xl,al,True
+484,address_1,1x6 hospital ave,126 hospital ave,True
+485,city,xzark,ozark,True
+488,score,1xx%,,True
+490,zip,x6x60,36360,True
+490,type,acute caxe hospitals,acute care hospitals,True
+492,emergency_service,yxs,yes,True
+493,type,acute care hxspitals,acute care hospitals,True
+493,owner,voluntaryxnon-profitx-xprivate,voluntary non-profit - private,True
+493,measure_name,hxart attack patixnts givxn ace inhibitor or arb for lxft vxntricular systolic dysfunction (lvsd),heart attack patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),True
+495,measure_code,ami-x,ami-5,True
+496,sample,0 patxents,,True
+497,type,acutx carx hospitals,acute care hospitals,True
+499,zip,x5960,35960,True
+502,county,chxrokxx,cherokee,True
+502,sample,44 paxienxs,,True
+504,state,ax,al,True
+506,condition,pneumonix,pneumonia,True
+506,score,93x,,True
+507,measure_name,pneumonix pxtients assessed xnd given influenzx vxccinxtion,pneumonia patients assessed and given influenza vaccination,True
+511,type,acuxe care hospixals,acute care hospitals,True
+513,county,chxrokxx,cherokee,True
+514,score,1xx%,,True
+516,phone,3342xx2100,3342882100,True
+517,city,montxomery,montgomery,True
+521,emergency_service,yxs,yes,True
+523,sample,25x patients,,True
+526,owner,volxntary non-profit - chxrch,voluntary non-profit - church,True
+527,county,monxgomery,montgomery,True
+532,name,baptist medical cexter south,baptist medical center south,True
+532,type,acute care hosxitals,acute care hospitals,True
+532,measure_name,pxeumoxia patiexts assessed axd givex ixfluexza vaccixatiox,pneumonia patients assessed and given influenza vaccination,True
+532,sample,87 patientx,,True
+536,emergency_service,yex,yes,True
+540,county,montgomexy,montgomery,True
+541,measure_name,hexrt attxck pxtients given aspirin xt arrivxl,heart attack patients given aspirin at arrival,True
+544,zip,3x10x,36106,True
+545,measure_name,heaxt attack patients given beta blockex at dischaxge,heart attack patients given beta blocker at discharge,True
+546,sample,x patients,,True
+548,phone,3342938xxx,3342938000,True
+551,county,monxgomery,montgomery,True
+554,sample,74 patxents,,True
+555,condition,pxeumoxia,pneumonia,True
+555,state_average,al_pn-5x,al_pn-5c,True
+559,provider_number,1xx24,,True
+560,name,jaxkson hospital & xlinix inx,jackson hospital & clinic inc,True
+561,phone,33x2938000,3342938000,True
+562,phone,3342938xxx,3342938000,True
+562,measure_name,allxheartxsurgeryxpatientsxwhosexbloodxsugarx(bloodxglucose)xisxkeptxunderxgoodxcontrolxinxthexdaysxrightxafterxsurgery,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,True
+564,emergency_service,xes,yes,True
+564,state_average,al_scipxvtex1,al_scip-vte-1,True
+567,state_average,xl_xmi-2,al_ami-2,True
+572,state,ax,al,True
+572,phone,334x561400,3347561400,True
+572,owner,voluntary non-profit - otxer,voluntary non-profit - other,True
+578,city,vallex,valley,True
+578,county,xhambers,chambers,True
+579,emergency_service,xes,yes,True
+580,measure_code,px-5c,pn-5c,True
+580,sample,50 pxtients,,True
+587,emergency_service,xes,yes,True
+588,type,acuxe care hospixals,acute care hospitals,True
+588,sample,172 patxents,,True
+590,city,vxlley,valley,True
+590,county,chaxbers,chambers,True
+592,state,ax,al,True
+593,phone,33x8972257,3348972257,True
+599,condition,heart faixure,heart failure,True
+601,city,exba,elba,True
+602,county,coffxx,coffee,True
+608,provider_number,x0027,,True
+608,condition,surgical ixfectiox prevextiox,surgical infection prevention,True
+612,measure_name,all heaxt suxgexy patients whose blood sugax (blood glucose) is kept undex good contxol in the days xight aftex suxgexy,all heart surgery patients whose blood sugar (blood glucose) is kept under good control in the days right after surgery,True
+622,state_average,al_amix8a,al_ami-8a,True
+627,provider_number,x0029,,True
+628,emergency_service,yex,yes,True
+631,condition,pneumonxa,pneumonia,True
+633,county,xee,lee,True
+634,type,acuxe care hospixals,acute care hospitals,True
+639,provider_number,1xx29,,True
+639,measure_code,scip-vtx-1,scip-vte-1,True
+645,provider_number,1xx32,,True
+646,state_average,alxami-7a,al_ami-7a,True
+648,measure_code,hfx1,hf-1,True
+650,measure_name,heart failure patients given ace inhibitor or arb for left xentricular systolic dysfunction (lxsd),heart failure patients given ace inhibitor or arb for left ventricular systolic dysfunction (lvsd),True
+651,measure_name,heart faxlure patxents gxven smokxng cessatxon advxce/counselxng,heart failure patients given smoking cessation advice/counseling,True
+652,address_1,209 xorth maix street,209 north main street,True
+653,emergency_service,xo,no,True
+654,name,wedowee hosxital,wedowee hospital,True
+654,city,wxdowxx,wedowee,True
+655,provider_number,1xx32,,True
+666,phone,20593xx011,2059344011,True
+668,sample,87 paxienxs,,True
+672,county,jxffxrson,jefferson,True
+672,measure_name,heartxattackxpatientsxgivenxpcixwithinx90xminutesxofxarrival,heart attack patients given pci within 90 minutes of arrival,True
+673,measure_code,xf-1,hf-1,True
+673,sample,618 xatients,,True
+674,emergency_service,yex,yes,True
+676,measure_code,hfx4,hf-4,True
+678,state_average,alxpn-3b,al_pn-3b,True
+679,zip,3x233,35233,True
+679,condition,xneumonia,pneumonia,True
+685,zip,x52xx,35233,True
+689,county,jexxerson,jefferson,True
+690,city,birminxham,birmingham,True
+691,measure_code,amix1,ami-1,True
+692,county,elmoxe,elmore,True
+694,measure_code,amx-4,ami-4,True
+695,type,acute cxre hospitxls,acute care hospitals,True
+695,condition,heart attaxk,heart attack,True
+696,city,tallaxxee,tallassee,True
+697,name,communitx hospital inc,community hospital inc,True
+698,county,elxore,elmore,True
+698,condition,hexrt fxilure,heart failure,True
+698,score,xx%,,True
+699,phone,334x836541,3342836541,True
+701,state,xl,al,True
+704,provider_number,100x4,,True
+705,type,acutexcarexhospitals,acute care hospitals,True
+705,measure_name,pxeumoxia patiexts givex ixitial axtibiotic(s) withix 6 hours after arrival,pneumonia patients given initial antibiotic(s) within 6 hours after arrival,True
+706,measure_name,pxeumoxia patiexts givex the most appropriate ixitial axtibiotic(s),pneumonia patients given the most appropriate initial antibiotic(s),True
+710,name,communixy hospixal inc,community hospital inc,True
+710,zip,36x78,36078,True
+711,score,1xx%,,True
+712,condition,surgical infection xrevention,surgical infection prevention,True
+713,phone,33x28365x1,3342836541,True
+713,measure_name,surgery paxienxs needing hair removed from xhe surgical area before surgery who had hair removed using a safer mexhod (elecxric clippers or hair removal cream c nox a razor),surgery patients needing hair removed from the surgical area before surgery who had hair removed using a safer method (electric clippers or hair removal cream c not a razor),True
+716,condition,heartxattack,heart attack,True
+718,measure_code,amx-3,ami-3,True
+718,score,x7%,,True
+721,provider_number,100x5,,True
+721,state_average,al_amx-7a,al_ami-7a,True
+722,county,cxllman,cullman,True
+724,provider_number,1xx35,,True
+729,type,acutexcarexhospitals,acute care hospitals,True
+729,measure_code,px-4,pn-4,True
+730,name,cullmxn regionxl medicxl center,cullman regional medical center,True
+730,county,cxllman,cullman,True
+733,condition,suxgical infection pxevention,surgical infection prevention,True
+735,measure_code,scix-inf-2,scip-inf-2,True
+736,address_1,1912xalabamaxhighwayx157,1912 alabama highway 157,True
+736,city,cuxxman,cullman,True
+744,owner,prxprietary,proprietary,True
+749,measure_code,hx-2,hf-2,True
+750,zip,3642x,36420,True
+751,phone,334xxx8466,3342228466,True
+752,county,coxington,covington,True
+755,provider_number,1xx36,,True
+756,city,andaluxia,andalusia,True
+758,name,andaxusia regionax hospitax,andalusia regional hospital,True
+760,state_average,al_scipxinfx2,al_scip-inf-2,True
+763,phone,33422284xx,3342228466,True
+764,state,xl,al,True
+764,state_average,al_scix-vte-1,al_scip-vte-1,True
+765,name,andaluxia regional hoxpital,andalusia regional hospital,True
+767,address_1,301 east 1xth st,301 east 18th st,True
+769,score,x3%,,True
+772,city,annxston,anniston,True
+774,measure_code,xax-1,cac-1,True
+776,sample,193 paxienxs,,True
+777,name,huntsvxlle hospxtal,huntsville hospital,True
+779,type,acutexcarexhospitals,acute care hospitals,True
+780,provider_number,1003x,,True
+780,condition,heart attaxk,heart attack,True
+782,type,acute care hospitaxs,acute care hospitals,True
+784,owner,goverxmext - hospital district or authority,government - hospital district or authority,True
+785,county,madisxn,madison,True
+785,measure_name,heaxt failuxe patients given an evaluation of left ventxiculax systolic (lvs) function,heart failure patients given an evaluation of left ventricular systolic (lvs) function,True
+787,state_average,al_hf-x,al_hf-4,True
+788,measure_code,pn-x,pn-2,True
+789,provider_number,1xx39,,True
+791,state,xl,al,True
+793,provider_number,100x9,,True
+796,state_average,xl_scip-inf-2,al_scip-inf-2,True
+797,emergency_service,yxs,yes,True
+798,county,madisox,madison,True
+802,measure_name,heart attack patxents gxven aspxrxn at arrxval,heart attack patients given aspirin at arrival,True
+809,emergency_service,xes,yes,True
+814,type,axute care hospitals,acute care hospitals,True
+815,zip,x590x,35903,True
+816,measure_name,pneumonix pxtients given initixl antibiotic(s) within 6 hours after arrivxl,pneumonia patients given initial antibiotic(s) within 6 hours after arrival,True
+821,city,gxdsden,gadsden,True
+824,phone,2564944xxx,2564944000,True
+827,state_average,xl_xmi-1,al_ami-1,True
+842,measure_code,pnx6,pn-6,True
+845,sample,4 patiexts,,True
+846,owner,voluntaxy non-pxofit - pxivate,voluntary non-profit - private,True
+848,type,acute caxe hospitals,acute care hospitals,True
+849,address_1,x0x0 lay dam road,1010 lay dam road,True
+851,condition,surgical infxction prxvxntion,surgical infection prevention,True
+855,city,hamilxon,hamilton,True
+855,phone,x059x16x00,2059216200,True
+857,address_1,1256 military street sxuth,1256 military street south,True
+859,provider_number,1xx44,,True
+860,score,80x,,True
+865,phone,20x9216200,2059216200,True
+865,measure_code,px-4,pn-4,True
+866,emergency_service,yxs,yes,True
+866,sample,121 patiexts,,True
+868,owner,voluxtary xox-profit - private,voluntary non-profit - private,True
+869,condition,surgical ixfectiox prevextiox,surgical infection prevention,True
+872,owner,voluntaxy non-pxofit - pxivate,voluntary non-profit - private,True
+872,sample,15 patiexts,,True
+877,type,acute care hoxpitalx,acute care hospitals,True
+878,provider_number,1xx45,,True
+881,phone,x0593x5966,2059325966,True
+883,phone,x0593x5966,2059325966,True
+884,state,xl,al,True
+886,state,xl,al,True
+888,provider_number,x0045,,True
+888,score,x5%,,True
+889,emergency_service,yex,yes,True
+893,measure_name,pneumonia patients assessed and given influenza vaxxination,pneumonia patients assessed and given influenza vaccination,True
+895,city,faxette,fayette,True
+895,county,fayexxe,fayette,True
+902,type,acutexcarexhospitals,acute care hospitals,True
+902,measure_name,childrenxwhoxreceivedxrelieverxmedicationxwhilexhospitalizedxforxasthma,children who received reliever medication while hospitalized for asthma,True
+903,name,rivxrvixw rxgional mxdical cxntxr,riverview regional medical center,True
+905,sample,126 patxents,,True
+915,address_1,600 souxh xhird sxreex,600 south third street,True
+915,measure_name,hearx failure paxienxs given smoking cessaxion advice/counseling,heart failure patients given smoking cessation advice/counseling,True
+916,phone,x565435x00,2565435200,True
+917,county,etowxh,etowah,True
+919,emergency_service,yex,yes,True
+920,state_average,alxpn-6,al_pn-6,True
+921,name,xivexview xegional medical centex,riverview regional medical center,True
+921,emergency_service,yxs,yes,True
+922,name,riverview rexional medical center,riverview regional medical center,True
+922,state,ax,al,True
+923,zip,3590x,35901,True
+926,type,acuxe care hospixals,acute care hospitals,True
+930,measure_code,amix1,ami-1,True
+933,provider_number,1xx47,,True
+934,address_1,515 miranda sx,515 miranda st,True
+935,address_1,515 miranxa st,515 miranda st,True
+938,name,georgiaxa hospital,georgiana hospital,True
+943,county,butxer,butler,True
+945,address_1,515 mirxndx st,515 miranda st,True
+949,city,geoxgiana,georgiana,True
+949,type,acute care hosxitals,acute care hospitals,True
+955,provider_number,1004x,,True
+955,condition,hexrt attxck,heart attack,True
+956,name,medixal xenter enterprise,medical center enterprise,True
+956,address_1,400xnxedwardsxstreet,400 n edwards street,True
+956,type,acute xare hospitals,acute care hospitals,True
+960,city,enterprxse,enterprise,True
+962,name,medxcal center enterprxse,medical center enterprise,True
+964,type,acutexcarexhospitals,acute care hospitals,True
+966,county,cxffee,coffee,True
+968,city,xntxrprisx,enterprise,True
+972,sample,27 paxienxs,,True
+974,condition,surgical xnfection prevention,surgical infection prevention,True
+976,type,acutexcarexhospitals,acute care hospitals,True
+985,city,onxonta,oneonta,True
+986,address_1,150 gilxreath drive,150 gilbreath drive,True
+987,name,st vincents bxount,st vincents blount,True
+997,measure_name,surgery pxtients who were txking hexrt drugs cxlled betx blockers before coming to the hospitxl who were kept on the betx blockers during the period just before xnd xfter their surgery,surgery patients who were taking heart drugs called beta blockers before coming to the hospital who were kept on the beta blockers during the period just before and after their surgery,True

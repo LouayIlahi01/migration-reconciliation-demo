@@ -1,0 +1,7 @@
+checker,flagged,true_errors_found,false_alarms,missed,precision,recall
+Contains 'x' (benchmark shortcut),510,509,1,0,0.998,1.0
+Format rules,146,146,0,363,1.0,0.287
+Consistency rules,423,423,0,86,1.0,0.831
+Format + consistency (final),505,505,0,4,1.0,0.992
+Shape profiling (not used),109,100,9,409,0.917,0.196
+All three,515,506,9,3,0.983,0.994
