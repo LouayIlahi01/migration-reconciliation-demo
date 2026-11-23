@@ -1,0 +1,5 @@
+column,dirty,clean
+type,acutx carx hospitals,acute care hospitals
+state_average,ax_pn-2,al_pn-2
+state,xl,al
+state_average,al_pnx6,al_pn-6
